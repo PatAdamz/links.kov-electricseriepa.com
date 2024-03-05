@@ -1,5 +1,5 @@
 html{
-    height: 100%
+    height: 100%;
 }
 .links {
     display: flex;
@@ -19,9 +19,10 @@ html{
 }
 
 body {
+    background-color: black;
     background-image: url('../img/lightning.gif') ;
-    height: auto;
-    width: 100%
+    height: 100vh;
+
 
     /* Center and scale the image nicely */
     background-position: center;
